@@ -1,0 +1,39 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinks/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto ad529f38f87440d79c18f3fee1d17bb9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot simu_behav xil_defaultlib.simu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:68]
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 8 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/rounds.v:221]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:69]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:70]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:71]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:72]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:73]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:74]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:75]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:76]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:77]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:78]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:79]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:80]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:81]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:82]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:83]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:84]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:85]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:86]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:87]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:88]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:89]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:90]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:91]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:92]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:93]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:94]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:95]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:96]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:97]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'rc' [C:/Users/Neha Jain/PRESENT_4/PRESENT_4.srcs/sources_1/new/presentcipher.v:98]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
